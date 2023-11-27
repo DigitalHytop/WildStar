@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="DigitalHytop" APIVersion="16" Name="NFTeleporter" Description="Teleportation Addon to assist with your Nexus travels." Version="1.0">
+    <Script Name="NFTeleporter.lua"/>
+    <Form Name="NFTeleporter.xml"/>
+</Addon>

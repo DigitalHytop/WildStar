@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="DigitalHytop" APIVersion="16" Name="NFReloadUI" Description="Button to give quick access to Reload UI." Version="1.2r">
+    <Script Name="NFReloadUI.lua"/>
+    <Form Name="NFReloadUI.xml"/>
+</Addon>
