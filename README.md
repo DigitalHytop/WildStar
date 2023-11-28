@@ -1,1 +1,1 @@
-WildStar NexusForever Emu Projects 
+My collection of WildStar NexusForever Emu Project files and Add-ons. 
